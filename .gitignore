@@ -30,3 +30,10 @@
 *.exe
 *.out
 *.app
+
+# Basically, just everything in the bin & build folders
+bin/*
+build/*
+
+# Also ignore vscode settings
+.vscode/*
